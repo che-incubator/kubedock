@@ -149,5 +149,6 @@ replace (
 	github.com/containerd/containerd => github.com/containerd/containerd v1.6.8
 	github.com/docker/distribution => github.com/docker/distribution v2.8.2+incompatible
 	github.com/opencontainers/runc => github.com/opencontainers/runc v1.1.5
+	golang.org/x/crypto => golang.org/x/crypto v0.35.0
 	gopkg.in/yaml.v3 => gopkg.in/yaml.v3 v3.0.1
 )
